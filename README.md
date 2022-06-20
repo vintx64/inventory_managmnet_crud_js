@@ -1,0 +1,1 @@
+# inventory_managmnet_crud_js
